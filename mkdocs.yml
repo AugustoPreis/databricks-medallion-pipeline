@@ -51,4 +51,5 @@ nav:
     - "003 - Bronze": notebooks/bronze.md
     - "004 - Silver (Data Quality)": notebooks/silver.md
     - "005 - Gold (Dimensional)": notebooks/gold.md
+    - "006 - Destruindo Ambiente": notebooks/destruindo-ambiente.md
   - Jobs & Pipelines: jobs.md

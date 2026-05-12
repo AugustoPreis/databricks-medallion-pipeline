@@ -55,12 +55,12 @@ dim_produto ── fato_vendas ── dim_localidade
 ```
 databricks-medallion-pipeline/
 ├── notebooks/
-│   ├── 001-preparando-ambiente.ipynb
+│   ├── 001-preparando-ambiente.py
 │   ├── 002-lakehouse-landing.py
 │   ├── 003-lakehouse-bronze.py
 │   ├── 004-lakehouse-silver.py
 │   ├── 005-lakehouse-gold.py
-│   └── 006-destruindo-ambiente.ipynb
+│   └── 006-destruindo-ambiente.py
 ├── docs/
 │   ├── index.md
 │   ├── introducao/
